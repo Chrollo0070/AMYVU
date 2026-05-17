@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+
+# Local sessions and secrets
+*.session
+
+# Generated media and large assets
+bg video/
+tts/
+
+# Bundled binaries
+ffmpeg-7.1.1-essentials_build/
+
+# Nested repo and its generated content
+RedditVideoMakerBot/
+
+# Misc local/editor files
+.DS_Store
+Thumbs.db
