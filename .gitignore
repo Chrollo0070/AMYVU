@@ -7,7 +7,7 @@ venv/
 .venv/
 env/
 
-# Local sessions and secrets
+# Local sessions and secrets #
 *.session
 
 # Generated media and large assets
